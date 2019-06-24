@@ -12,9 +12,6 @@ import javax.persistence.Id;
 import javax.validation.constraints.Email;
 import java.util.Date;
 
-/**
- * User entity
- */
 @Entity
 @Data
 public class User {
